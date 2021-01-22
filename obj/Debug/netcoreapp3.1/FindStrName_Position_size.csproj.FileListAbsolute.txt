@@ -1,0 +1,13 @@
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\bin\Debug\netcoreapp3.1\FindStrName_Position_size.exe
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\bin\Debug\netcoreapp3.1\FindStrName_Position_size.deps.json
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\bin\Debug\netcoreapp3.1\FindStrName_Position_size.runtimeconfig.json
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\bin\Debug\netcoreapp3.1\FindStrName_Position_size.runtimeconfig.dev.json
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\bin\Debug\netcoreapp3.1\FindStrName_Position_size.dll
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\bin\Debug\netcoreapp3.1\FindStrName_Position_size.pdb
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.AssemblyInfoInputs.cache
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.AssemblyInfo.cs
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.dll
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.pdb
+C:\Users\Lenovo PC\source\repos\FindStrName_Position_size\obj\Debug\netcoreapp3.1\FindStrName_Position_size.genruntimeconfig.cache
